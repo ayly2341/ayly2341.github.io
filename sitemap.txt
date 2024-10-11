@@ -12,5 +12,4 @@ http://example.com/timeline/index.html
 http://example.com/links/index.html
 http://example.com/categories/index.html
 http://example.com/tags/index.html
-http://example.com/2023/06/07/hello-world/
 http://example.com/
