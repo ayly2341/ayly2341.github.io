@@ -1,4 +1,4 @@
-http://example.com/2024/10/11/%E6%88%91%E4%BB%AC/
+http://example.com/2024/10/11/we/
 http://example.com/photos/album/index.html
 http://example.com/photos/index.html
 http://example.com/messageboard/index.html
