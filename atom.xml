@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>李阳&amp;范安圆</title>
+  <title>回忆录</title>
   
   <subtitle>欢迎光临我们的小屋</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -8,11 +8,6 @@
   <link href="http://example.com/"/>
   <updated>2024-11-12T14:24:52.710Z</updated>
   <id>http://example.com/</id>
-  
-  <author>
-    <name>范安圆&amp;李阳</name>
-    
-  </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
